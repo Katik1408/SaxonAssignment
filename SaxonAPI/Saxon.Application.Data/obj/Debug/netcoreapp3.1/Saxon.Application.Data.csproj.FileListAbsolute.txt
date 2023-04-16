@@ -1,0 +1,10 @@
+D:\Saxon\SaxonAPI\Saxon.Application.Data\bin\Debug\netcoreapp3.1\Saxon.Application.Data.deps.json
+D:\Saxon\SaxonAPI\Saxon.Application.Data\bin\Debug\netcoreapp3.1\Saxon.Application.Data.dll
+D:\Saxon\SaxonAPI\Saxon.Application.Data\bin\Debug\netcoreapp3.1\Saxon.Application.Data.pdb
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.csproj.AssemblyReference.cache
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.AssemblyInfoInputs.cache
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.AssemblyInfo.cs
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.csproj.CoreCompileInputs.cache
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.dll
+D:\Saxon\SaxonAPI\Saxon.Application.Data\obj\Debug\netcoreapp3.1\Saxon.Application.Data.pdb
